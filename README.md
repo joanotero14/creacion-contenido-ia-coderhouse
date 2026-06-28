@@ -1,41 +1,60 @@
-# AI-Assisted Design Process
+# README – Producción del Vocero Digital
 
-## Objective
+## Objetivo
 
-The objective of this exercise was to explore how generative AI can be integrated into a design workflow, using prompts iteratively to develop a concept while maintaining human judgment over the final outcome.
+El objetivo de esta entrega fue desarrollar un vocero digital para Johnnie Walker Green Label utilizando HeyGen, buscando trasladar la identidad definida en los módulos anteriores a una pieza audiovisual con apariencia humana y una comunicación coherente con el posicionamiento de la marca.
 
-## Initial Prompt
+---
 
-I started by describing the creative direction I wanted to achieve, focusing on a minimalist visual language with a premium aesthetic. Rather than asking the AI for a finished solution, I used it to generate multiple starting points and alternative approaches.
+# Guion
 
-## Iterative Process
+El punto de partida fue la Biblia de Contenidos desarrollada en la entrega anterior. Para esta pieza se eligió el pilar **"Elegir con criterio"**, ya que representa uno de los conceptos más relevantes para Green Label: entender el progreso como el resultado de decisiones conscientes y no únicamente como una sucesión de logros.
 
-The project was developed through several rounds of prompting. After each result, I evaluated what worked and what did not, refining the prompts to improve composition, hierarchy, tone, and consistency.
+El guion fue desarrollado con ayuda de ChatGPT mediante un proceso iterativo. En las primeras versiones el texto resultaba demasiado explicativo, por lo que se realizaron varias revisiones para obtener una narrativa más breve, reflexiva y adecuada para una locución de aproximadamente 45 segundos.
 
-The prompts evolved by:
+### Prompt base utilizado
 
-* Clarifying the visual objective.
-* Adjusting style and mood.
-* Removing unnecessary elements.
-* Refining typography and layout suggestions.
-* Requesting multiple variations before selecting a direction.
+> Actúa como un copywriter senior especializado en marcas premium. Escribe un guion para un vocero digital de Johnnie Walker Green Label basado en el concepto "La diferencia entre reaccionar y elegir". El tono debe ser elegante, contemporáneo y reflexivo, evitando clichés publicitarios y mensajes motivacionales. El objetivo es comunicar que la experiencia permite desarrollar criterio y tomar decisiones más conscientes.
 
-This iterative approach allowed the AI to function as an exploration tool instead of a replacement for the design process.
+Posteriormente el texto fue refinado ajustando longitud de frases, pausas y ritmo hasta lograr una lectura natural para el avatar.
 
-## Design Decisions
+---
 
-Although AI generated initial concepts, the final decisions were made manually. These included:
+# Producción en HeyGen
 
-* Selecting the strongest visual direction.
-* Defining the information hierarchy.
-* Adjusting spacing and composition.
-* Refining typography.
-* Ensuring consistency with the intended visual identity.
+Para la producción del vocero digital se utilizó **HeyGen**.
 
-The final outcome reflects a combination of AI-assisted exploration and designer-led decision making.
+## Decisiones de configuración
 
-## Reflection
+* Selección de un avatar masculino de apariencia contemporánea.
+* Expresión facial neutra y segura para transmitir confianza sin exageración.
+* Voz en inglés con una velocidad moderada para favorecer la claridad del mensaje.
+* Sincronización automática entre voz y movimientos faciales.
+* Escenario con vista urbana contemporánea para reforzar el posicionamiento cosmopolita de la marca.
+* Presencia visible de la botella de Johnnie Walker Green Label dentro del plano como elemento de reconocimiento de marca.
 
-The most valuable aspect of the process was not obtaining an immediate solution, but accelerating exploration and testing alternatives that would have taken longer to produce manually.
+Durante la producción se realizaron distintas pruebas modificando el ritmo del discurso y la puntuación del guion para conseguir pausas más naturales y mejorar la sincronización de la locución.
 
-This exercise reinforced that AI is most effective as a collaborative tool. Its output depends on the quality of the prompts, the iterative refinement process, and the designer's critical evaluation throughout the project.
+---
+
+# Herramientas utilizadas
+
+* ChatGPT: desarrollo y refinamiento del guion.
+* HeyGen: generación del avatar, voz, sincronización labial y composición del video.
+* Suno: creación de música gratuita.
+
+---
+
+# Relación con la identidad de marca
+
+Las decisiones creativas mantienen coherencia con el trabajo realizado en las entregas anteriores.
+
+El mensaje desarrolla el concepto de **progreso consciente**, uno de los pilares estratégicos definidos para Johnnie Walker Green Label. En lugar de hablar de éxito o estatus, el guion invita a reflexionar sobre el valor del criterio, la experiencia y las decisiones personales.
+
+Visualmente se buscó una estética limpia y contemporánea. La presencia del producto, el entorno urbano y la actitud serena del vocero transmiten sofisticación sin recurrir a códigos de lujo ostentoso, respetando la personalidad verbal y visual definida previamente para la marca.
+
+---
+
+# Reflexión
+
+La utilización de IA permitió acelerar la producción del contenido, aunque el resultado final dependió principalmente del proceso de iteración. La calidad de la pieza estuvo determinada por el refinamiento del guion, la selección del avatar y las decisiones tomadas durante la configuración de HeyGen para mantener consistencia con la identidad de Johnnie Walker Green Label.
